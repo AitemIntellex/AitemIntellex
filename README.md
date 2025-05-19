@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Timur Marufhodjaev (aka AitemIntellex)
+## Hi there 👋, I'm Timur Marufhodjaev (aka Timur)
 
 🔧 Full-Stack Developer | 📈 AI in Finance | 🧠 Creator of [TradeSpace](https://github.com/AitemIntellex/TradeSpace-MVPPDO)
 
